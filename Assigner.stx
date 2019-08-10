@@ -1,0 +1,49 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.30 secs
+ 
+--> Parameter xsthdpdir set to C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.31 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/RandomGenerator.vhd" in Library work.
+Architecture behavioral of Entity randomgenerator is up to date.
+Compiling vhdl file "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" in Library work.
+Entity <assigner> compiled.
+ERROR:HDLParsers:3312 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 60. Undefined symbol 'LuckyNumber'.
+ERROR:HDLParsers:1209 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 60. LuckyNumber: Undefined symbol (last report in this block)
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 63. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 64. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 65. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 66. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 67. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 68. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 69. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 70. = can not have such operands in this context.
+ERROR:HDLParsers:808 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 71. = can not have such operands in this context.
+WARNING:HDLParsers:1406 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 60. No sensitivity list and no wait in the process
+ERROR:HDLParsers:851 - "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" Line 79. Formal startGenerate of ENTITY with no default value must be associated with an actual value.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.63 secs
+ 
+--> 
+
+Total memory usage is 323524 kilobytes
+
+Number of errors   :   12 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

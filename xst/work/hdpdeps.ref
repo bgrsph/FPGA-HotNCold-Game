@@ -1,0 +1,17 @@
+V3 7
+FL "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" 2017/12/22.11:28:52 P.20131013
+EN work/Assigner 0 \
+      FL "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/Assigner/Behavioral 0 \
+      FL "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/Assigner.vhd" \
+      EN work/Assigner 0 CP work/RandomGenerator
+FL "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/RandomGenerator.vhd" 2017/12/22.11:32:45 P.20131013
+EN work/RandomGenerator 1513932091 \
+      FL "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/RandomGenerator.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/MATH_REAL 1381692182 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/RandomGenerator/Behavioral 1513932092 \
+      FL "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/RandomGenerator.vhd" \
+      EN work/RandomGenerator 1513932091

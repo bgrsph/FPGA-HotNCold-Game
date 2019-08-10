@@ -1,0 +1,11 @@
+NET "A" LOC = "P78";
+NET "B" LOC = "P82";
+NET "C" LOC = "P85";
+NET "D" LOC = "P88";
+NET "E" LOC = "P90";
+NET "F" LOC = "P94";
+NET "G" LOC = "P4";
+NET "H" LOC = "P5";
+NET "I" LOC = "P12";
+NET "J" LOC = "P15";
+NET "startGenerate" LOC = P40;

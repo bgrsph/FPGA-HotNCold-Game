@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/blgpr/Desktop/VHDL Projects/HotNColdGame/xst"
+elaborate
+-ifn Assigner.prj
+-ifmt mixed
